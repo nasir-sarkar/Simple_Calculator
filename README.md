@@ -1,0 +1,1 @@
+A simple calculator built using C# and Windows Forms, supporting basic arithmetic operations (+, -, ×, ÷). Users can input numbers, select an operator, and compute results with ease. Includes a clear button to reset calculations.
